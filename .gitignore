@@ -43,8 +43,6 @@ ENV/
 # results/
 
 # Large files
-*.npz
-*.pkl
 *.h5
 *.hdf5
 
